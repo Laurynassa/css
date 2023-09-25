@@ -4,3 +4,68 @@
 .antrasis {
   border: dotted;
 }
+.treciasis {
+  border: dashed;
+}
+.ketvirtasis {
+  border: solid;
+}
+.penktas {
+  text-align: center;
+  border: 3px double #000000;
+  padding: 1em;
+  margin: 1em;
+}
+.sestas {
+  border: groove;
+}
+.septintas {
+  border: ridge;
+}
+.astuntas {
+  border: inset;
+}
+.devintas {
+  border: outset;
+}
+.zalia {
+  word-break: normal;
+  background-color: green;
+  border: solid;
+  border-color: red;
+  border-radius: 90px;
+  width: 300px;
+  height: 150px;
+  text-align: center;
+}
+.melina {
+  text-align: center;
+  background-color: blue;
+  word-break: normal;
+  border: solid;
+  border-color: red;
+  border-radius: 25% 10%;
+  width: 300px;
+  height: 150px;
+}
+.raudona {
+  text-align: center;
+  background-color: orange;
+  word-break: normal;
+  border: solid;
+  border-color: red;
+  border-radius: 35px 10cm 10%;
+  width: 300px;
+  height: 150px;
+}
+.geltona {
+  background-color: yellow;
+  word-break: normal;
+  border: solid;
+  border-color: red;
+  border-radius: 50px 50% 50cm 50cm;
+  width: 400px;
+  height: 150px;
+  margin-bottom: 50%;
+  text-align: center;
+}
